@@ -17,7 +17,6 @@
     How Operator e.g. + is used to add two classes and output the resultant class.
 
 ## 4.Splitting a single file into mutli files
-### *How header works*
 ###  <span style="color: green"> Multicompilation files with custom header (folder) </span>
 
     Header are library files that contains only
